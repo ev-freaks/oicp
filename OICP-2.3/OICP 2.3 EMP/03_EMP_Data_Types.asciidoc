@@ -334,7 +334,7 @@ ProductID:<<ProductIDType,ProductIDType>>:The product name of the applicable pri
 |=====================
 Name:Data Type:Description:M/O:Field Length
 Periods:<<PeriodType,PeriodType>>:The starting and end time for pricing product applicability in the specified period:M:
-On:enum (Everyday, Workdays, Weekend, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday):Day values to be used in specifying periods on which the product is available:M:
+on:enum (Everyday, Workdays, Weekend, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday):Day values to be used in specifying periods on which the product is available:M:
 |=====================
 
 [[AdditionalReferencesType]]
