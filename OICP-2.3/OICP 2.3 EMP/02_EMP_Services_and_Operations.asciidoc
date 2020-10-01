@@ -814,7 +814,7 @@ NOTE: This message describes the response which has to be sent in reply to the e
 [%header]
 |====
 |	Name	|	Data Type	|	Description	|	M/O
-|	OperatorEVSEPricing	|	List <<03_EMP_Data_Types.adoc#OperatorEVSEPricingType,OperatorEVSEPricingType>>|A list of EVSE pricing data blocks for specific operators |M
+|	EVSEPricing	|	List <<03_EMP_Data_Types.adoc#OperatorEVSEPricingType,OperatorEVSEPricingType>>|A list of EVSE pricing data blocks for specific operators |M
 |	StatusCode	|	<<03_EMP_Data_Types.adoc#StatusCodeType,StatusCodeType>>	| This can be used e.g. for failure messages or further information regarding the result.|	O
 |====
 
